@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+ruby '2.2.1'
+gem 'rake'
+gem 'minitest', '~> 5.9.0'
+gem 'minitest-hooks', '~> 1.4.0'
